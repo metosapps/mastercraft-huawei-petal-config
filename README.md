@@ -4,11 +4,11 @@ Dedicated configuration for `com.mastercraft.huawei_crafting_petald`.
 
 - Petal Ads SDK: `ads-prime 3.4.91.301`
 - Ads default: disabled
-- Test interstitial: `testb4znbuh3n2`
-- Test rewarded: `testx9dtjwj8hp`
+- Production interstitial: `i10hy17f47`
+- Production rewarded: `f706n669tw`
 - Splash: disabled
 - AdMob and Yandex: disabled
 
-Replace the test IDs with formal Petal Publisher placements only after this
-exact package is registered and approved. Enable both `ads_enabled` and
-`petal_enabled` for controlled testing.
+The production placements are configured, but both `ads_enabled` and
+`petal_enabled` remain `false`. Enable both only after the exact package is
+live and production serving has been explicitly approved.
