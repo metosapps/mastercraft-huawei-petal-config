@@ -6,9 +6,10 @@ Dedicated configuration for `com.mastercraft.huawei_crafting_petald`.
 - Ads default: disabled
 - Production interstitial: `i10hy17f47`
 - Production rewarded: `f706n669tw`
-- Splash: disabled
+- Production Splash/App Open: `x1nwcv8guz` (disabled)
 - AdMob and Yandex: disabled
 
 The production placements are configured, but both `ads_enabled` and
 `petal_enabled` remain `false`. Enable both only after the exact package is
-live and production serving has been explicitly approved.
+live and production serving has been explicitly approved. Splash also requires
+`petal_splash_enabled: true` in the same reviewed release.
