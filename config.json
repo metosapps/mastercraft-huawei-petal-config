@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "package_name": "com.mastercraft.huawei_crafting_petald",
+  "store": "huawei_appgallery",
+  "ads_enabled": false,
+  "petal_enabled": false,
+  "test_mode": true,
+  "petal_interstitial_id": "testb4znbuh3n2",
+  "petal_rewarded_id": "testx9dtjwj8hp",
+  "petal_splash_enabled": false,
+  "petal_splash_id": "testq6zq98hecj"
+}
