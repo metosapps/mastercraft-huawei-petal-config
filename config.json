@@ -2,11 +2,11 @@
   "schema_version": 1,
   "package_name": "com.mastercraft.huawei_crafting_petald",
   "store": "huawei_appgallery",
-  "ads_enabled": false,
-  "petal_enabled": false,
-  "test_mode": false,
-  "petal_interstitial_id": "i10hy17f47",
-  "petal_rewarded_id": "f706n669tw",
-  "petal_splash_enabled": false,
-  "petal_splash_id": "x1nwcv8guz"
+  "ads_enabled": true,
+  "petal_enabled": true,
+  "test_mode": true,
+  "petal_interstitial_id": "testb4znbuh3n2",
+  "petal_rewarded_id": "testx9dtjwj8hp",
+  "petal_splash_enabled": true,
+  "petal_splash_id": "testq6zq98hecj"
 }
