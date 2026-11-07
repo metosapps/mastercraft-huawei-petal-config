@@ -3,7 +3,7 @@
 Dedicated configuration for `com.mastercraft.huawei_crafting_petald`.
 
 - Petal Ads SDK: `ads-prime 3.4.91.301`
-- Current mode: Huawei test ads enabled
+- Current mode: production Petal ads enabled (`ads_enabled=true`, `test_mode=false`)
 - Production interstitial: `i10hy17f47`
 - Production rewarded: `f706n669tw`
 - Production Splash/App Open: `x1nwcv8guz`
@@ -12,6 +12,5 @@ Dedicated configuration for `com.mastercraft.huawei_crafting_petald`.
 - Test Splash/App Open: `testq6zq98hecj`
 - AdMob and Yandex: disabled
 
-The live remote configuration currently enables Petal test ads only. Before a
-production release, replace the three test IDs with the production IDs above
-and keep production serving subject to a separate explicit approval.
+The live remote configuration uses the three production placement IDs above.
+AdMob and Yandex remain disabled for this Huawei flavor.
