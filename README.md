@@ -1,4 +1,4 @@
-# Master Craft Huawei Petal Remote Config
+# Block Craft World: Build & Explore - Huawei Petal Remote Config
 
 Dedicated configuration for `com.mastercraft.huawei_crafting_petald`.
 
